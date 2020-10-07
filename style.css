@@ -99,7 +99,7 @@ nav a {
   flex-direction: column;
   height: 600px;
   background-color: rgba(232, 217, 217, 0.3);
-  box-shadow: 0 -5px 5px -5px #333;
+  box-shadow: inset 0px 7px 8px -3px #bdb6bd;
 }
 
 h1 {
